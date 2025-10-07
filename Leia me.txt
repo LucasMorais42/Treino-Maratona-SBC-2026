@@ -1,0 +1,6 @@
+PASTA CONCEITOS VAI CONTER:
+-> Explicação em DOC
+-> Exercícios genéricos para entender LÓGICA
+
+PASTA EXERCÍCIOS:
+-> Obrigatoriamente exercícios de sites/maratonas.
