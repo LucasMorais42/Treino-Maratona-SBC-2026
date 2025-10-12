@@ -1,0 +1,20 @@
+CURSOS NOIC 
+https://noic.com.br/materiais-informatica/curso/
+
+Muito conteúdo focado em programação competitiva, aborda muitos tópicos + lista de exercício em cada um.
+====================
+CODE MARATHON
+https://www.codemarathon.com.br/conteudos/introducao
+
+É um grande repositório de outros links/conteúdos para maratona. Ele apresenta a frequência que cada tópico cai nas maratonas.
+=========================================
+HACKER EARTH
+https://www.hackerearth.com/practice/
+Mais organizado: https://www.hackerearth.com/practice/codemonk/
+
+Possui vários exercícios e tutoriais, também tem lista de contest/hackathons
+
+=========================================
+CODE MARATHON
+https://www.codemarathon.com.br/conteudos/introducao/como-estudar-para-maratona-de-programacao
+Lista mais conteúdos, inclusive a maioria tirei daqui
