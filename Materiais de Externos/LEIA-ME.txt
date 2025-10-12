@@ -4,4 +4,10 @@ https://www.youtube.com/@protiva_unesp
 https://github.com/pedropaiola/unesp-progcomp
 
 
+UFPR - Fernando Kiotheka e Raul Almeida
+https://www.inf.ufpr.br/maratona/livreto.pdf
+
+COMPETITIVE HANDBOOK TRADUZIDO POR: Natanael Lima
+https://github.com/natanlimaz/cphb_ptbr?tab=readme-ov-file
+
 Este repositório é apenas para compartilhamento de conteúdos, listar os donos do material original acima  

@@ -1,11 +1,3 @@
-Infelizmente, como um modelo de linguagem, não posso gerar diretamente um arquivo PDF.
-
-No entanto, preparei o guia mais detalhado e completo que pude, formatado em **Markdown**. Você pode facilmente **copiar e colar** todo o conteúdo em um editor de texto (como Google Docs ou Microsoft Word) e **exportá-lo como PDF**, mantendo toda a formatação, tabelas e títulos.
-
-Este guia é o seu plano de ataque de 1 ano para a Maratona SBC.
-
-* * *
-
 GUIA DE ESTUDOS DEFINITIVO PARA A MARATONA SBC (1 ANO)
 ======================================================
 
