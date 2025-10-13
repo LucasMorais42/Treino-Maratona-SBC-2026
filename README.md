@@ -21,14 +21,14 @@ Aqui você encontra exercícios resolvidos, teoria organizada e materiais estrat
 ---
 
 ## 📂 Estrutura do Repositório
-
+```
 Treino-Maratona-SBC-2026/
  │
  ├── Conceitos/ # Teoria de estruturas de dados, algoritmos e matemática competitiva
  ├── Exercicios-Resolvidos/ # Soluções comentadas de problemas passados
  ├── Materiais-Externos/ # Links, PDFs, vídeos e recursos úteis
  └── Roadmaps/ # Guias de estudo e cronogramas para o treino
-
+```
 
 ---
 
