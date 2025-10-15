@@ -1,0 +1,2 @@
+BEECnumero -> Accepted
+beecnumero -> ainda nn submetido, WA, TLE etc
