@@ -3,6 +3,7 @@
 Repositório dedicado ao treino e preparação para a **Maratona de Programação SBC 2026**.  
 Aqui você encontra exercícios resolvidos, teoria organizada e materiais estratégicos para maratonistas.
 
+<img src ="https://th.bing.com/th/id/R.acb145925728037620679a9cce4624d7?rik=pmVbv%2fVylCN9cg&pid=ImgRaw&r=0"/>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/LucasMorais42/Treino-Maratona-SBC-2026?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LucasMorais42/Treino-Maratona-SBC-2026?style=flat-square)
