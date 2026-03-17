@@ -27,10 +27,6 @@ string converter_dec_to_bin(long long int value){
 		value/=2;
 	}
 	
-	for(long long int i=0; i<bin.size(); i++){
-		bin[i]=tolower(bin[i]);
-	}
-	
 	return bin;
 }
 
