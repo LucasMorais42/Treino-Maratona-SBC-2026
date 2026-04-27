@@ -11,8 +11,8 @@ const ll LINF = 0x3f3f3f3f3f3f3fll;
 
 int main() { _ //define de io
 	
-	//Faça um programa que mostre todos os primos entre 1 e N
-	//sendo N um número inteiro fornecido pelo usuário.//
+	//FaÃ§a um programa que mostre todos os primos entre 1 e N
+	//sendo N um nÃºmero inteiro fornecido pelo usuÃ¡rio.//
 	
 	int n; cin >> n;
 	for(int i=2; i<n; i++){
